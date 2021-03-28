@@ -29,7 +29,7 @@ namespace MDT112midterm3
                 Console.Write("Input bucket number : ");
                 bucket = int.Parse(Console.ReadLine());
 
-                Console.Write("Input bucket number : ");
+                Console.Write("Input number box : ");
                 box = int.Parse(Console.ReadLine());
 
                 switch (bucket)
@@ -59,7 +59,7 @@ namespace MDT112midterm3
                 Console.Write("Input bucket number : ");
                 bucket = int.Parse(Console.ReadLine());
 
-                Console.Write("Input bucket number : ");
+                Console.Write("Input number box : ");
                 box = int.Parse(Console.ReadLine());
 
                 switch (bucket)
